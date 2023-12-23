@@ -1,7 +1,5 @@
 from game_settings import *
 import copy
-partner1_uci_email_id = "cvergene@uci.edu" # both partner's email IDs must be on each submission
-partner2_uci_email_id = "akanekar@uci.edu" # both partner's email IDs must be on each submission
 
 # board = [['+', '+', '+', '+', '+', '+', '+', '+'], ['+', ' ', '.', ' ', ' ', ' ', ' ', '+'], ['+', 'i', ' ', '!', ' ', 'o', ' ', '+'], ['+', ' ', ' ', ' ', '!', ' ', 'o', '+'], ['+', ' ', ' ', ' ', ' ', ' ', ' ', '+'], ['+', '+', '+', '+', '+', '+', '+', '+']]
 
